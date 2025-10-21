@@ -1,0 +1,7 @@
+{
+  "name": "FocusFlow ADHD Attention Monitor",
+  "description": "A tool for teachers to monitor student attention during video calls. It provides real-time focus scores, session summaries, and assistive tools, leveraging local video processing for privacy. Also includes a product plan generator powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
